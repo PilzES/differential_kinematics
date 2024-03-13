@@ -1,1 +1,1 @@
-# neo_kinematics_differential2
+# kinematics_differential package
